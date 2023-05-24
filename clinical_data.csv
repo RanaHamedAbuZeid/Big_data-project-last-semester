@@ -1,0 +1,106 @@
+RefSeq_accession_number,ID,Gender,ER,PR,Node,Node_Coded,Metastasis,Metastasis_Coded,survive,PAM50_mRNA,methylation_clust,gebe_exp_clust,Age_InitDiag,HER2_FinalStatus,survive_code,OS_Time
+NP_001195,A2_A0T2,FEMALE,Negative,Negative,N3,Positive,M1,Positive,DECEASED,Basal-like,5,2,66,T3,1,240
+NP_219494,A2_A0CM,FEMALE,Negative,Negative,N0,Negative,M0,Negative,DECEASED,Basal-like,4,2,40,T2,1,754
+NP_653269,BH_A18V,FEMALE,Negative,Negative,N1,Positive,M0,Negative,DECEASED,Basal-like,5,2,48,T2,1,1555
+NP_149132,BH_A18Q,FEMALE,Negative,Negative,N1,Positive,M0,Negative,DECEASED,Basal-like,5,2,56,T2,1,1692
+NP_115811,BH_A0E0,FEMALE,Negative,Negative,N3,Positive,M0,Negative,LIVING,Basal-like,5,2,38,T3,0,133
+NP_005226,A7_A0CE,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,57,T2,0,309
+NP_002407,D8_A142,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,74,T3,0,425
+NP_001556,A2_A0D0,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,60,T2,0,643
+NP_004439,AO_A0J6,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,61,T2,0,775
+NP_659453,A2_A0YM,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,67,T2,0,964
+NP_036246,A2_A0D2,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,45,T2,0,1027
+NP_001229372,A2_A0SX,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,48,T1,0,1288
+NP_078868,AO_A0JL,FEMALE,Negative,Negative,N2,Positive,M0,Negative,LIVING,Basal-like,5,2,59,T2,0,1319
+NP_001157196,AO_A12F,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,36,T2,0,1471
+NP_945344,AN_A0AL,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,41,T4,0,197
+NP_001258745,AN_A0FL,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,62,T2,0,230
+NP_006527,AR_A0U4,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,54,T2,0,1627
+NP_001103089,AR_A1AQ,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,49,T2,0,1309
+NP_001001414,BH_A0AV,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,52,T1,0,1180
+NP_115568,C8_A12V,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,55,T2,0,0
+NP_001191761,C8_A131,FEMALE,Negative,Negative,N2,Positive,M0,Negative,LIVING,Basal-like,1,2,82,T2,0,0
+NP_002402,C8_A134,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,4,2,52,T2,0,0
+NP_060835,E2_A150,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,48,T2,0,591
+NP_789793,E2_A158,FEMALE,Negative,Negative,N1,Positive,M0,Negative,LIVING,Basal-like,5,2,43,T1,0,450
+NP_001035546,E2_A159,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,Basal-like,5,2,50,T2,0,515
+NP_001437,BH_A18R,FEMALE,Indeterminate,Negative,N1,Positive,M0,Negative,DECEASED,HER2-enriched,4,1,50,T2,1,1141
+NP_828847,A2_A0T1,FEMALE,Negative,Negative,N3,Positive,M0,Negative,LIVING,HER2-enriched,5,1,55,T3,0,520
+NP_004353,BH_A0EE,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,HER2-enriched,1,1,68,T3,0,943
+NP_003055,A2_A0D1,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,HER2-enriched,3,1,76,T2,0,1051
+NP_064695,AO_A12D,FEMALE,Negative,Negative,N1,Positive,M0,Negative,LIVING,HER2-enriched,5,1,43,T1,0,1948
+NP_444513,AO_A0JE,FEMALE,Negative,Negative,N2,Positive,M0,Negative,LIVING,HER2-enriched,4,1,53,T2,0,1965
+NP_060545,A2_A0EQ,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,HER2-enriched,4,4,64,T2,0,2426
+NP_001074007,A8_A076,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,HER2-enriched,3,1,66,T2,0,1641
+NP_002954,A8_A09G,FEMALE,Positive,Negative,N3,Positive,M0,Negative,LIVING,HER2-enriched,1,1,79,T3,0,0
+NP_689771,AR_A0TX,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,HER2-enriched,1,1,64,T1,0,15
+NP_000932,C8_A12L,FEMALE,Negative,Negative,N0,Negative,M0,Negative,LIVING,HER2-enriched,4,1,67,T2,0,0
+NP_001191763,C8_A12P,FEMALE,Negative,Negative,N1,Positive,M0,Negative,LIVING,HER2-enriched,1,1,55,T2,0,0
+NP_954855,C8_A12Q,FEMALE,Negative,Negative,N2,Positive,M0,Negative,LIVING,HER2-enriched,2,1,78,T1,0,0
+NP_689975,C8_A12T,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,HER2-enriched,4,1,43,T2,0,0
+NP_000841,C8_A12Z,FEMALE,Negative,Negative,N1,Positive,M0,Negative,LIVING,HER2-enriched,4,1,45,T2,0,0
+NP_076947,C8_A130,FEMALE,Positive,Positive,N2,Positive,M0,Negative,LIVING,HER2-enriched,2,1,52,T3,0,0
+NP_079137,C8_A135,FEMALE,Negative,Negative,N1,Positive,M0,Negative,LIVING,HER2-enriched,1,1,64,T2,0,0
+NP_001638,C8_A138,FEMALE,Positive,Negative,N2,Positive,M0,Negative,LIVING,HER2-enriched,2,1,54,T2,0,7
+NP_001028170,AR_A0TR,FEMALE,Positive,Positive,N1,Positive,M0,Negative,DECEASED,Luminal A,2,3,68,T2,1,160
+NP_115927,BH_A18N,FEMALE,Positive,Positive,N1,Positive,M0,Negative,DECEASED,Luminal A,2,3,88,T2,1,1148
+NP_001078906,BH_A0HK,FEMALE,Positive,Negative,N1,Positive,M0,Negative,LIVING,Luminal A,3,3,81,T2,0,178
+NP_001036249,A7_A0CD,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,3,3,66,T1,0,372
+NP_002596,BH_A0HP,FEMALE,Positive,Negative,N2,Positive,M0,Negative,LIVING,Luminal A,1,3,65,T3,0,414
+NP_003710,A2_A0YI,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,1,3,62,T1,0,441
+NP_000329,A2_A0YL,FEMALE,Positive,Positive,N2,Positive,M0,Negative,LIVING,Luminal A,1,3,48,T3,0,445
+NP_114131,A2_A0YF,FEMALE,Positive,Negative,N0,Negative,M0,Negative,LIVING,Luminal A,2,3,67,T1,0,469
+NP_666533,BH_A0E1,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,2,3,52,T2,0,477
+NP_001172019,A2_A0T6,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,4,3,50,T3,0,575
+NP_001172020,A2_A0T7,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,1,3,51,T2,0,631
+NP_116264,A2_A0YD,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,1,3,63,T3,0,769
+NP_766638,A2_A0EV,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,2,3,80,T1,0,968
+NP_054775,A2_A0YC,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,4,3,59,T2,0,989
+NP_000766,AO_A0J9,FEMALE,Positive,Positive,N3,Positive,M0,Negative,LIVING,Luminal A,4,3,61,T2,0,1255
+NP_000552,BH_A0BV,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,4,3,78,T2,0,1519
+NP_000842,AO_A12E,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,3,3,51,T3,0,1742
+NP_001177915,AO_A126,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,4,3,39,T2,0,2850
+NP_059119,A2_A0EX,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,4,3,46,T3,0,549
+NP_001264262,AO_A0JJ,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,1,3,54,T2,0,1512
+NP_005836,A8_A08Z,FEMALE,Positive,Positive,N3,Positive,M0,Negative,LIVING,Luminal A,2,3,76,T4,0,1217
+NP_036223,AN_A04A,FEMALE,Positive,Positive,N2,Positive,M0,Negative,LIVING,Luminal A,2,3,36,T2,0,89
+NP_001009944,AR_A1AP,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,4,3,80,T1,0,1215
+NP_004852,AR_A1AS,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,2,3,54,T2,0,1242
+NP_001245249,AR_A1AW,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,1,3,65,T2,0,1072
+NP_058649,BH_A0C1,FEMALE,Positive,Positive,N2,Positive,M0,Negative,LIVING,Luminal A,4,3,61,T3,0,1338
+NP_001070665,BH_A0DG,FEMALE,Positive,Negative,N0,Negative,M0,Negative,LIVING,Luminal A,1,3,30,T2,0,713
+NP_001070826,BH_A0E9,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal A,1,3,53,T2,0,1405
+NP_001186170,E2_A154,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal A,4,3,68,T1,0,325
+NP_115598,AO_A03O,FEMALE,Positive,Positive,N0,Negative,M0,Negative,DECEASED,Luminal B,4,4,69,T2,1,2483
+XP_370934,A2_A0SW,FEMALE,Positive,Negative,N2,Positive,M1,Positive,DECEASED,Luminal B,4,4,82,T2,1,1364
+NP_001193949,BH_A18U,FEMALE,Positive,Positive,N2,Positive,M0,Negative,DECEASED,Luminal B,3,4,72,T2,1,1563
+NP_057419,AR_A0TY,FEMALE,Positive,Negative,N0,Negative,M0,Negative,DECEASED,Luminal B,4,4,54,T2,1,1699
+NP_001230209,D8_A13Y,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,2,4,52,T1,0,362
+NP_004660,A7_A13F,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,44,T3,0,387
+NP_057678,A7_A0CJ,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,3,4,57,T2,0,409
+NP_076934,A2_A0T3,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,3,4,37,T1,0,569
+NP_055489,A2_A0YG,FEMALE,Positive,Positive,N3,Positive,M0,Negative,LIVING,Luminal B,4,4,63,T2,0,665
+NP_714913,A2_A0EY,FEMALE,Positive,Negative,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,62,T2,0,735
+NP_775323,E2_A10A,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,2,4,41,T3,0,1229
+NP_000558,BH_A0C0,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,62,T1,0,1270
+NP_002437,AO_A0JC,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,5,2,64,T2,0,1547
+NP_115497,AO_A0JM,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,3,4,40,T2,0,1826
+NP_005054,AO_A12B,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,2,4,63,T2,0,2359
+NP_006542,A8_A06N,FEMALE,Positive,Negative,N0,Negative,M0,Negative,LIVING,Luminal B,4,4,66,T4,0,0
+NP_653176,A8_A06Z,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,5,4,84,T3,0,31
+NP_036289,A8_A079,FEMALE,Positive,Positive,N3,Positive,M0,Negative,LIVING,Luminal B,3,4,69,T4,0,274
+NP_115715,A8_A08G,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,2,4,41,T2,0,606
+NP_620154,A8_A09I,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,3,4,84,T2,0,1006
+NP_114104,AN_A0AJ,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,3,4,79,T3,0,243
+NP_003670,AN_A0AM,FEMALE,Positive,Negative,N0,Negative,M0,Negative,LIVING,Luminal B,4,4,56,T2,0,5
+NP_031370,AN_A0AS,FEMALE,Positive,Negative,N2,Positive,M0,Negative,LIVING,Luminal B,2,4,70,T2,0,9
+NP_003147,AN_A0FK,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,2,4,88,T4,0,212
+NP_001158137,AR_A0TT,FEMALE,Positive,Negative,N2,Positive,M0,Negative,LIVING,Luminal B,1,4,53,T2,0,1679
+NP_003875,AR_A0TV,FEMALE,Positive,Positive,N0,Negative,M0,Negative,LIVING,Luminal B,4,4,66,T2,0,904
+NP_110381,AR_A1AV,MALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,3,4,68,T2,0,1295
+NP_001120852,BH_A0BZ,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,59,T3,0,1492
+NP_055281,BH_A0C7,FEMALE,Positive,Negative,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,48,T2,0,1305
+NP_665698,BH_A0DD,MALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,58,T2,0,1393
+NP_001162589,C8_A12U,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,46,T2,0,0
+NP_653190,C8_A12W,FEMALE,Positive,Positive,N1,Positive,M0,Negative,LIVING,Luminal B,4,4,49,T4,0,0
+NP_065869,E2_A15A,FEMALE,Positive,Positive,N3,Positive,M0,Negative,LIVING,Luminal B,4,4,45,T2,0,502
